@@ -3,8 +3,9 @@ from decouple import config
 
 def telegram_token_validation() -> str:
     """
-    Telegram Token Validation
-    :return: str: Telegram token
+    Примитивная валидация телеграм токена
+    (Проверка на пример токена и его отсутствие)
+    :return: str: Телеграм токен
     """
     token = config('TELEGRAM_TOKEN')
 
