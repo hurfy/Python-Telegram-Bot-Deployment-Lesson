@@ -13,7 +13,6 @@
 # Материалы:
 ### Запись, презентация, ссылки на необходимые ресурсы:
 [Презентация по уроку](https://github.com/hurfy/Python-Telegram-Bot-Deployment-Lesson/files/13756682/GitHub.Docker.-.pdf)<br>
-[Видеозапись урока]()<br>
 [Хостинг](https://ruvds.com/ru-rub)<br>
 [MobaXterm](https://mobaxterm.mobatek.net/download-home-edition.html)
 
